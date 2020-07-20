@@ -14,12 +14,10 @@
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/MEAN.jpg"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/AndroidAppDevelopment.jpg"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/Java.png"/></code>
+<code><img src="https://icons8.com/icon/46630/java"/></code>
+<code><img src="https://icons8.com/icon/17836/android-os"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/MachineLearning.png"/></code>
-
-
+<code><img src="https://icons8.com/icon/NL90I8YT1YnN/machine-learning"/></code>
 <br>
 
 ### **You can reach me on:**
