@@ -13,11 +13,11 @@
 <code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/MEAN.jpg"/></code>
-<code><img src="https://icons8.com/icon/46630/java"/></code>
-<code><img src="https://icons8.com/icon/17836/android-os"/></code>
+<code><img src="https://otssolutions.com/wp-content/uploads/2017/10/maxresdefault-1-1024x576.jpg"/></code>
+<code><img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ed5569e8-c0dd-458c-8450-cde6300093bd/File/a5023b0f0fb67f59176a0499af9021ed/java_horz_clr.png"/></code>
+<code><img src="https://img-a.udemycdn.com/course/750x422/1697790_aecd_3.jpg"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
-<code><img src="https://icons8.com/icon/NL90I8YT1YnN/machine-learning"/></code>
+<code><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png"/></code>
 <br>
 
 ### **You can reach me on:**
